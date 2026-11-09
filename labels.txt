@@ -1,0 +1,2 @@
+0 focus
+1 not_focus
